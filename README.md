@@ -1,1 +1,1 @@
-# API images sreach project based on ReactJS
+# API images search project based on ReactJS
